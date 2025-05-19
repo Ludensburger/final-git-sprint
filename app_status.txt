@@ -3,6 +3,7 @@ Copy code
 Project: Dev Sprint App
 Version: 0.1
 Features:
-- Login System
+- Login System: Added Password encryption
 - Dashboard
 - Notifications
+- Auth Library: bcrypt
