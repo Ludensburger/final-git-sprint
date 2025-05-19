@@ -4,5 +4,6 @@ Project: Dev Sprint App
 Version: 0.1
 Features:
 - Login System
-- Dashboard
+- Dashboard: Added user analytics and theme toggle
 - Notifications
+- Chart Library: Chart.js
